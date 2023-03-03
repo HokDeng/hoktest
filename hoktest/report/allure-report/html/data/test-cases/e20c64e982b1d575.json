@@ -1,0 +1,92 @@
+{
+  "uid" : "e20c64e982b1d575",
+  "name" : "test_9",
+  "fullName" : "case.test_03.Test_01#test_9",
+  "historyId" : "3231836a19a8894caf5a9b6cee643d0c",
+  "time" : {
+    "start" : 1611561680923,
+    "stop" : 1611561684455,
+    "duration" : 3532
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test_01",
+    "time" : {
+      "start" : 1611561652254,
+      "stop" : 1611561654778,
+      "duration" : 2524
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test_01::0",
+    "time" : {
+      "start" : 1611561687846,
+      "stop" : 1611561690696,
+      "duration" : 2850
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "停用"
+  }, {
+    "name" : "feature",
+    "value" : "冒烟测试"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_03"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TDCR7MQ"
+  }, {
+    "name" : "thread",
+    "value" : "13164-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e20c64e982b1d575.json",
+  "parameterValues" : [ ]
+}
